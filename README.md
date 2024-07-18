@@ -1,4 +1,3 @@
-# AIS2309-P2-Group2-SolarEcoSolutions
 # Modernisation du Système Informatique de SolarEco Solutions
 
 ## Présentation de la Société
