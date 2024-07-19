@@ -1,5 +1,7 @@
 # Modernisation du Système Informatique de SolarEco Solutions
 
+Dossier Projet : https://docs.google.com/document/d/17fD9N7QeDj33BgXp9LajQLqCleALeMRZNvCNmsPkmjY
+
 ## Présentation de la Société
 
 **SolarEco Solutions** est une entreprise française fondée en 2010, spécialisée dans les énergies renouvelables et dédiée au développement et à la fabrication de panneaux solaires à haut rendement. Basée à Toulouse avec un atelier de haute technologie et un datacenter récent à Marseille, l'entreprise emploie actuellement environ 50 personnes et prévoit d'augmenter cet effectif à 80.
