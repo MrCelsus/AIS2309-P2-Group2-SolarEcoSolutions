@@ -362,7 +362,7 @@ Complétez le formulaire avec les informations de votre domaine comme ceci :
 
   
 
-- **Nom** : *BillU.lan*
+- **Nom** : *SolarEcoSolution.lan*
 
 - **Serveur par défaut** : mettre **Oui**
 
