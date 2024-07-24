@@ -1,0 +1,3 @@
+
+
+Le système informatique de SolarEco Solutions a été négligé pendant de nombreuses années, ce qui a conduit à une infrastructure dépassée et fragmentée. Aujourd'hui, la direction de l'entreprise considère l'utilisation des nouvelles technologies comme un axe stratégique essentiel. La modernisation de l'infrastructure est désormais une priorité pour améliorer la gestion de la production, renforcer la sécurité des données et soutenir les objectifs stratégiques de l'entreprise. Cette impulsion se traduit par une modernisation de l'infrastructure sur site et par l'acquisition et l'aménagement d'un petit datacenter privé situé à Marseille.
